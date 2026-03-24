@@ -2,10 +2,7 @@
 <p align="center"> Full Stack Developer | DevOps Enthusiast | Applied AI</p>
 
 
-<p align="center">
-  <a href="رابط_لينكد_إن"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="رابط_إيميلك"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+
 
 * 🧠 Passionate about AI integration and Context Reduction in LLMs.
 ## 🌐 Socials:
