@@ -1,4 +1,13 @@
+ <p align="center">Hatim Saddani</p>
+<p align="center"> Full Stack Developer | DevOps Enthusiast | Applied AI</p>
 
+
+<p align="center">
+  <a href="رابط_لينكد_إن"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="رابط_إيميلك"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+* 🧠 Passionate about AI integration and Context Reduction in LLMs.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_hatim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hatim-saddani/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/Hatim84386) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saddanihatim283@gmail.com) 
 
